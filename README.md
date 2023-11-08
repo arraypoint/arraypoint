@@ -12,10 +12,10 @@ I'm passionate about:
 - 🌿 Open Source, and much more!
 
 #### About myself
-<h4>I'm a techy nerd who loves to know about how a software works and how to create a appropriate software.
+I'm a techy nerd who loves to know about how a software works and how to create a appropriate software.
 <br>
 Currently learning python and want to advanced in backend development.
 <br>
-Moderately active in social media platforms like X (formerly knows as Twitter), Instagram, Threads and Telegram.</hr4>
+Moderately active in social media platforms like X (formerly knows as Twitter), Instagram, Threads and Telegram.
 
 
